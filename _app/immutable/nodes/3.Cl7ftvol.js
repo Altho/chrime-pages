@@ -1,5 +1,0 @@
-import{F as e,J as t,N as n,Q as r,et as i,ft as a,ht as o,lt as s,nt as c,pt as l,q as u,ut as d,v as f,w as p}from"../chunks/B6OT5fXT.js";import{o as m}from"../chunks/C61bJMcJ.js";import"../chunks/xihTtKlq.js";var h=o({csr:()=>g,prerender:()=>!0}),g=!1,_=e(`<meta name="description" content="About this app"/>`),v=e(`<div class="text-column"><h1>About this app</h1> <p>This is a <a href="https://svelte.dev/docs/kit">SvelteKit</a> app. You can make your own by typing
-		the following into your command line and following the prompts:</p> <pre>npx sv create</pre> <p>The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.</p> <p>The <a>Sverdle</a> page illustrates SvelteKit's data loading and form handling.
-		Try using it with JavaScript disabled!</p></div>`);function y(e,o){d(o,!0);var h=v();p(`cwls5q`,e=>{var t=_();u(()=>{r.title=`About`}),n(e,t)});var g=c(i(h),8),y=c(i(g));a(),l(g),l(h),t(e=>f(y,`href`,e),[()=>m(`/sverdle`)]),n(e,h),s()}export{y as component,h as universal};
