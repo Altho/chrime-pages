@@ -1,0 +1,1 @@
+import{F as e,O as t,P as n,U as r,at as i,dt as a,i as o,j as s,nt as c,ot as l,ut as u}from"./BWIHMm-_.js";import"./xihTtKlq.js";function d(d,f){a(f,!0);let p=l(!1);o(()=>{i(p,!0)});var m=e();s(c(m),()=>r(p),r=>{var i=e();t(c(i),()=>f.html),n(r,i)}),n(d,m),u()}export{d as t};
