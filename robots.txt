@@ -1,3 +1,5 @@
-# allow crawling everything by default
+# allow crawling everything except the admin panel
 User-agent: *
-Disallow:
+Disallow: /chrime-pages/admin
+
+Sitemap: https://altho.github.io/chrime-pages/sitemap.xml
