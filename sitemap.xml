@@ -229,9 +229,6 @@
 		<loc>https://www.christopherime.com/media/framus-1-202609282207</loc>
 	</url>
 	<url>
-		<loc>https://www.christopherime.com/media/live-202609282211</loc>
-	</url>
-	<url>
 		<loc>https://www.christopherime.com/media/live-djeli-moussa-diawara-1-202609282218</loc>
 	</url>
 	<url>
@@ -272,5 +269,8 @@
 	</url>
 	<url>
 		<loc>https://www.christopherime.com/media/walk-on-202609292106</loc>
+	</url>
+	<url>
+		<loc>https://www.christopherime.com/media/live-202609282211</loc>
 	</url>
 </urlset>
