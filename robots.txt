@@ -1,6 +1,5 @@
-# allow crawling everything except the admin panel and the raw 404 source page
 User-agent: *
-Disallow: /chrime-pages/admin
-Disallow: /chrime-pages/not-found
+Disallow: /admin
+Disallow: /not-found
 
-Sitemap: https://altho.github.io/chrime-pages/sitemap.xml
+Sitemap: https://www.christopherime.com/sitemap.xml
