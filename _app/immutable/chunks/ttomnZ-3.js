@@ -1,0 +1,1 @@
+import{a as e,o as t}from"./DgSy37VB.js";function n(e){let n=new URL(t(`/`),e).pathname.replace(/\/$/,``),{pathname:r}=e;return n&&(r===n||r.startsWith(`${n}/`))?r.slice(n.length)||`/`:r}function r(t,n){return/^https?:\/\//i.test(t)?t:new URL(e(t),n).href}export{n,r as t};
